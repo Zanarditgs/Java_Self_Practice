@@ -1,4 +1,4 @@
-package my_first_package;
+package day01_practice_tasks;
 
 public class Diamond1 {
     public static void main(String[] args) {

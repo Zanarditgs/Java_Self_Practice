@@ -1,4 +1,4 @@
-package day01_practice_tasks;
+package day03_practice_tasks;
 
 public class Rectangle {
 

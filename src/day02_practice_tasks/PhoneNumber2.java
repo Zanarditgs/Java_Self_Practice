@@ -1,4 +1,4 @@
-package m10_variables_data_types;
+package day02_practice_tasks;
 
 public class PhoneNumber2 {
     public static void main(String[] args) {
